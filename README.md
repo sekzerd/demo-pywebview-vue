@@ -1,5 +1,5 @@
-# pywebview-react-boilerplate
-This is a  simple boilerplate to help you start with _pywebview_ and React. It sets up the development environment, install dependencies, as well as provides scripts for building an executable. Stack is based on pywebview, React, SASS, Parcel bundler, pyinstaller (Windows/Linux) and py2app (macOS).
+# pywebview-vue
+This is a  simple boilerplate to help you start with _pywebview_ and Vue. It sets up the development environment, install dependencies, as well as provides scripts for building an executable. Stack is based on pywebview, Vue, SASS, Parcel bundler, pyinstaller (Windows/Linux) and py2app (macOS).
 
 ## Requirements
 - Python 3
