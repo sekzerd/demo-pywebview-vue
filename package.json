@@ -39,6 +39,8 @@
     "typescript": "~5.7.2",
     "vite": "^6.2.0",
     "vite-tsconfig-paths": "^4.2.1",
-    "vue-tsc": "^2.2.4"
-  }
+    "vue-tsc": "^2.2.4",
+    "@types/bun": "latest"
+  },
+  "private": true
 }
